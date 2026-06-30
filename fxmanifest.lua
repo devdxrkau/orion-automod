@@ -8,7 +8,7 @@ game 'gta5'
 name 'orion-automod'
 description 'Orion AutoMod - Automatic chat moderation system'
 author 'orion'
-version '1.0.6'
+version '1.0.7'
 
 dependencies {
     'ox_lib'
